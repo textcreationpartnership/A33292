@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Lent-sermon preached at the Cathedral Church of St. Paul, March 3, 1699/1700 before the Right Honourable the Ld. Mayor and Aldermen of the city of London / by Sam. Clerke ...</title>
+            <author>Clark, Samuel, 1626-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33292</idno>
+            <idno type="STC">Wing C4493</idno>
+            <idno type="STC">ESTC R35642</idno>
+            <idno type="EEBO-CITATION">15508797</idno>
+            <idno type="OCLC">ocm 15508797</idno>
+            <idno type="VID">103604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Lent-sermon preached at the Cathedral Church of St. Paul, March 3, 1699/1700 before the Right Honourable the Ld. Mayor and Aldermen of the city of London / by Sam. Clerke ...</title>
+                  <author>Clark, Samuel, 1626-1701.</author>
+               </titleStmt>
+               <extent>[5], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenten sermons.</term>
+               <term>Repentance.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="order_to_print">
+            <pb facs="tcp:103604:1"/>
+            <head>LEVET, Mayor.</head>
+            <opener>
+               <date>
+                  <hi>Martis xix die Martii,</hi> 1699. <hi>Annoque RRs Willielmi Tertii, Angliae,</hi> &amp;c. <hi>duodecimo.</hi>
+               </date>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Clerke</hi> to Print his Sermon, preached at the <hi>Cathedral Church</hi> of St. <hi>Paul,</hi> on Sunday the Third Day of this in<g ref="char:EOLhyphen"/>ſtant <hi>March,</hi> before the Lord <hi>Mayor</hi> and <hi>Aldermen</hi> of this City.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:103604:1" rendition="simple:additions"/>
+            <p>A Lent-Sermon, Preached at the Cathedral Church of St. PAUL, <hi>March</hi> 3. 1699/700.</p>
+            <p>Before the Right Honourable the <hi>L<hi rend="sup">d.</hi> Mayor</hi> and <hi>Aldermen</hi> OF THE CITY of LONDON.</p>
+            <p>By <hi>Sam. Clerke,</hi> B. D. Chaplain to the Right Honourable the LORD CUTTS.</p>
+            <q>
+               <hi>Optima &amp; aptiſſima Poenitentia est nova Vita,</hi> 
+               <bibl>Luther.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Benj. Tooke</hi> at the <hi>Middle-Temple-Gate</hi> in <hi>Fleetſtreet,</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103604:2"/>
+            <pb facs="tcp:103604:2"/>
+            <head>To the Right Honourable, Sir Richard Levet, Kt. LORD MAYOR OF THE City of London.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>PReſuming it as acceptable from the Preſs, as pleaſing in the Pulpit; I humbly Dedicate the following Diſcourſe to Your Honour: Both, in Gratitude for Your Manifold Favours towards
+<pb facs="tcp:103604:3"/>me; and as a Specimen of the high Value and Eſteem all have for You, (being as Good, as Great; and no leſs an Ornament to the Chair, than That an Honour to You.)</p>
+            <p>May it be as Profitable, as Seaſo<g ref="char:EOLhyphen"/>nable; and but in the leaſt Mea<g ref="char:EOLhyphen"/>ſure promote True Piety, which I have therein endeavoured to Ad<g ref="char:EOLhyphen"/>vance: Then ſhall I have the ut<g ref="char:EOLhyphen"/>moſt intended, or deſigned, by</p>
+            <closer>
+               <salute>Your LORDSHIPS,</salute>
+               <signed>In all Chriſtian Duty to Command, SAM. CLERKE.</signed>
+            </closer>
+         </div>
+         <div type="sermon">
+            <pb n="1" facs="tcp:103604:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>MAT. 3.8.</hi>
+               </bibl>
+               <q>Bring forth therefore Fruits meet for Re<g ref="char:EOLhyphen"/>pentance.</q>
+            </epigraph>
+            <p>WE being Men, and bearing about us this Body of Fleſh, the ſteps where<g ref="char:EOLhyphen"/>of are ſo unſtay'd; and walking in this World, the ways whereof are ſo ſlippery: Not to fall, not to erre, not in the leaſt to do amiſs, is an higher Perfection than humane Nature can attain to. It is an Apoſtle that ſaith it, <hi>In many things we offend all,</hi> Jam. 3.2. And another tells us, 1 <hi>John</hi> 1.8. <hi>If we ſay we have no ſin, we deceive our ſelves, and the Truth is not in us.</hi>
+            </p>
+            <p>It is too too evident, we cannot avoid the Of<g ref="char:EOLhyphen"/>fence, but we may ſhun the Woe; tho' we can<g ref="char:EOLhyphen"/>not be free from Sin, yet we may get freed from God's Wrath enſuing it: The Text puts us in a way, <hi>Bring forth therefore Fruits meet for Repen<g ref="char:EOLhyphen"/>tance.</hi> Is not the whole Race of Mankind, by the Fall, degenerated? Are we not all in ſome Senſe,
+<pb n="2" facs="tcp:103604:4"/>Prodigals? Have we not erred and ſtrayed like loſt ſheep? Have we not left our Father's houſe; that is, by Sin ſet him at a diſtance from us, <hi>Elongat nos à Deo Peccatum:</hi> Sin is a Cloud of Se<g ref="char:EOLhyphen"/>paration, or a Wall of Partition 'twixt our God and us. Now there is nothing like Penitency to break down this Partition-Wall, and diſſipate this Cloud.</p>
+            <p>Believe it, Chriſtian Brethren! There is no<g ref="char:EOLhyphen"/>thing ſo advantageous to fallen Man; nothing ſo becoming a returning Prodigal; nothing ſo pro<g ref="char:EOLhyphen"/>per for a Convicted Sinner; nothing ſo accepta<g ref="char:EOLhyphen"/>ble to GOD, nor to Man, ſo ſatisfactory, as a genuine and free Confeſſion, a ſincere and hear<g ref="char:EOLhyphen"/>ty Repentance; a Repentance big and fruitful in good Works: (I mean) accompanyed with Amendment of Life. The beſt and trueſt Re<g ref="char:EOLhyphen"/>pentance is a New Life. Humiliation is to no Purpoſe, without Reformation; Repentance for Sin, without Repentance from Sin: There muſt be <hi>Fruits meet for Repentance;</hi> (that is) anſwera<g ref="char:EOLhyphen"/>ble to Amendment of Life, Tantamount as Re<g ref="char:EOLhyphen"/>pentance; and that weigh juſt as much as it: <hi>Bring forth,</hi> &amp;c. Theſe Words will bear a four<g ref="char:EOLhyphen"/>fold Diviſion.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:103604:4"/>1. Here is the Act of Production enjoyn'd, <hi>Bring forth.</hi>
+            </p>
+            <p n="2">2. Here is the Matter of this Production, <hi>Fruit.</hi>
+            </p>
+            <p n="3">3. Here is the Qualification of this Fruit, <hi>Fruit meet for Repentance.</hi>
+            </p>
+            <p n="4">4. Here is the Reaſon of this Duty: <hi>There<g ref="char:EOLhyphen"/>fore bring forth Fruit meet for Repentance.</hi>
+            </p>
+            <p>
+               <hi>Firſt.</hi> As to the Act of Production, <hi>Bring forth.</hi> The chiefeſt end of God's Creating Man, was for His own Glory; but one great end, why God Created Male and Female, was for the Pro<g ref="char:EOLhyphen"/>pagation of Mankind. Man muſt bring forth his, as other Creatures bring forth their Kind: God therefore had no ſooner made an Help-meet for Man, but His Command was, <hi>Increaſe and Multiply.</hi> Now as the Production of Children was one thing enjoyn'd the Firſt <hi>Adam</hi> and, his Sons, <hi>Gen.</hi> 1.28. ſo is Production alſo enjoyn'd the Sons of the Second <hi>Adam</hi> by this His Harbin<g ref="char:EOLhyphen"/>ger St. <hi>John Baptiſt: Bring forth;</hi> and if you ask, What? In the</p>
+            <p>
+               <hi>Second</hi> Place you are reſolved, <hi>Fruit.</hi> In that the <hi>Two Kidneys, and the Fat that is upon them, and the Cawle over the Liver,</hi> and the other inward Parts were reſerved for the Altar, and Dedica<g ref="char:EOLhyphen"/>ted
+<pb n="4" facs="tcp:103604:5"/>to God, <hi>Lev.</hi> 4.9. Doth it not teach us (as <hi>Pellican</hi> noteth on the Place) that we ſhould offer the uſe of all our Members in Obedience to God? Good Men ſhould abound in good Works; and Chriſtians in Name, ſhould be Chriſtians in Deed. Hence is that of St. <hi>Paul,</hi> Phil. 1.27. <hi>Onely let your Converſation be, as becometh the Goſpel of Chriſt.</hi> Onely, As much as to ſay, it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: It is the main and chief Charge I lay upon you; it is the upſhot and ſum of all my Exhortations to you: Let this therefore ſink deep into your hearts, mind this, and above all things remember it; that your Converſation be Chriſtian like, and ſuitable to the Goſpel.</p>
+            <p>Sad is it, when our Lives anſwer not our Profeſ<g ref="char:EOLhyphen"/>ſion: When our Practices bear no proportion to our Speeches. Such as ſay, <hi>Lord, Lord, but are Work<g ref="char:EOLhyphen"/>ers of Iniquity,</hi> they are like coarſe Cloth with a fine Liſt: They look white like Silver, but draw black Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es. They are meer Impoſtures, ſuch Chriſtians, that would couſen God of Heaven, if they could; putting upon Him falſe Coin a little ſilver'd over, and circumventing Him, if it lay in their power. But as St. <hi>Bernard</hi> ſpeaketh truly, <hi>Sapiens Nummula<g ref="char:EOLhyphen"/>rius Deus eſt, Nummum fictum non recipiet:</hi> God is a wiſe Mint-man, there is no beguiling Him with
+<pb n="5" facs="tcp:103604:5"/>Counterfeit Coin. Let us therefore, I beſeech you dear Chriſtians, weigh well what we do: Shall a<g ref="char:EOLhyphen"/>ny of us preſume to impoſe upon Wiſdom it ſelf? Who has ſuch a ſtock of Impudence, as dares to give God the Lye? Now for a Man to ſay he is a Chriſtian, and not follow Chriſt's Example, is to lye, and contradict himſelf. There is a Lye in Works, as well as in Words, <hi>Hoſ.</hi> 11.12. <hi>Ephraim compaſſeth me about with lyes, and the Houſe of Iſrael with deceit.</hi> That is, they profeſs one thing, they do a<g ref="char:EOLhyphen"/>nother. They have the ſhell of Godlineſs, but want the kernel; they have the form, but deny the power. The form of Religion (which at beſt is but a ſlight Mark) is not that God will be ſatisfy<g ref="char:EOLhyphen"/>ed with: He requires a deep ſtamp and impreſſi<g ref="char:EOLhyphen"/>on. The Mark is a ſeeming to be Religious; the deep ſtamp is the bridling of the Tongue, the vi<g ref="char:EOLhyphen"/>ſiting of the Fatherleſs and Widows, and the con<g ref="char:EOLhyphen"/>tinuing unſpotted from the World. Theſe, and the like Works, formal Chriſtians have no mind to: Who will be God's Servants, but they will chuſe their Labour. My Meaning is, they are mighty buſie about the means and inſtruments, but neglect its end: They are hugely zealous in matters of Devotion, and Religious Ordinances; but utterly careleſs of all manner of Vertue and
+<pb n="6" facs="tcp:103604:6"/>Moral Goodneſs. Now abating the Hypocritical Abuſes of religious Ordinances; ſuppoſing Men to be as ſerious in them, as their Importance re<g ref="char:EOLhyphen"/>quires; yet as inſtrumental Duties, and command<g ref="char:EOLhyphen"/>ed only in Order to ſomething of greater Excel<g ref="char:EOLhyphen"/>lency: Whenſoever they are ſeparated from their end, they muſt be alſo ſeparated from their Good<g ref="char:EOLhyphen"/>neſs, and are as empty of all ſolid Piety, as were all the carnal Services of the <hi>Phariſees,</hi> without an inward and ſpiritual Obedience.</p>
+            <p>What is it to be curious to waſh our Hands, if incurious to purifie our Hearts? What is it to ſtarve and faſt away our Corpſe, if we feed and pamper our Luſts? What is it not to rob, if we defraud and oppreſs our Neighbours? Or while we relieve our Brother; at the ſame time to hate and deſpiſe him? It is no better all this, than to let go the Bo<g ref="char:EOLhyphen"/>dy and Subſtance of Religion, to purſue its Sha<g ref="char:EOLhyphen"/>dow and Appearances: 'Tis no other in God's repute, than to make <hi>the Means of Grace</hi> become a Servant to Impiety; the outward Form of Religi<g ref="char:EOLhyphen"/>on, a Diſguiſe for Hypocriſie; and the Inſtruments of Piety, engines to undermine what they were ordain'd to advance. In the Scripture Phraſe, ſuch <hi>profeſs they know God, but in Works deny him, Tit.</hi> 1.16. Fye Chriſtians! How is God's Name diſhonoured,
+<pb n="7" facs="tcp:103604:6"/>by ſuch Profeſſors of his Name? The ſincere Chri<g ref="char:EOLhyphen"/>ſtian ſets himſelf to a ſerious minding of true and real Goodneſs: He values his Devotions, not by his Zeal and Frequency, but by their Succeſs and Efficacy; and as they influence his Life, ſo he eſti<g ref="char:EOLhyphen"/>mates them; according to that of St. <hi>Jerome, Inter Christianum &amp; Gentilem, non Fides tantum debet, ſed Vita diſtinguere, &amp; diverſum religione, per diverſa opera mon<g ref="char:EOLhyphen"/>ſtrate, Hier. ad Celantiam.</hi> Not only Faith but Life, muſt diſtinguiſh between a Chriſtian and a Gentile; and we muſt ſhew a diverſe Religion, by diverſe Works. The Rules of Chriſtianity are Modeſty, Juſtice, bearing of the Croſs, Conſtancy in the Pro<g ref="char:EOLhyphen"/>feſſion of Godlineſs: Yet what confident Boldneſs is in our Streets? What Injuſtice is in our Land? What Pampering of the Fleſh? What Intempe<g ref="char:EOLhyphen"/>rance? What Lukewarmneſs in Religion?</p>
+            <p>We profeſs a Goſpel of Mortification, of Hu<g ref="char:EOLhyphen"/>mility, of Self-denyal: Yet how vain? How proud? How faſhionable are we? How little Regard have we to anſwer this Goſpel Profeſſion?</p>
+            <p>Think you, Beloved! That the bare read<g ref="char:EOLhyphen"/>ing the Scriptures, and the frequent having the Book of Chriſtian Learning in your Hands, is enough to denominate you Chriſtian Men and Women? May you call your ſelves the Diſciples
+<pb n="8" facs="tcp:103604:7"/>of our Saviour, becauſe you turn over ſome good Books, and hear good Sermons? No ſuch matter; there is more in it than ſo: For our Actions, our Lives, theſe muſt ſhew what we are.</p>
+            <p>Covetouſneſs and Love of Pleaſure, tells us plainly, that we are Idolaters and dead in Sin: Our Murmurings and Diſcontent beſpeak us ra<g ref="char:EOLhyphen"/>ther (with that prophane <hi>Cardinal</hi>) to prize our part in <hi>Paris,</hi> above that in Paradice: Or with ungrateful <hi>Iſrael,</hi> to prefer <hi>Aegypt</hi> before <hi>Canaan.</hi> Pride and Study to be admired in the World, proclaim us Deviliſh and Vain-glorious.</p>
+            <p>To give a Proof of our Humanity and Chri<g ref="char:EOLhyphen"/>ſtianity too; to convince the World, that we are not turned unreaſonable Creatures: We muſt live according to our Reaſon; we muſt practice our Religion; we muſt prefer our Souls before our Bodies; and the Concerns of our immortal Be<g ref="char:EOLhyphen"/>ing, before the Trivial Enjoyments of a few Mo<g ref="char:EOLhyphen"/>ments. What elſe means that of St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 3.3. that we ſhould <hi>not be carnal, and walk as Men; but ſpiritual, and walk like Chriſtians?</hi> Chriſtians are not diſtinguiſhed from others by outward Faſhi<g ref="char:EOLhyphen"/>ons and Modes; not by their external Forms and Molds into which they are caſt, not by profeſ<g ref="char:EOLhyphen"/>ſing
+<pb n="9" facs="tcp:103604:7"/>a Body of Notions differing from others in the World; but they are diſtinguiſhed by the re<g ref="char:EOLhyphen"/>newing of their Minds, by the Peaceableneſs of their Thoughts, by Charity and Heavenly Love, by pious and Holy Lives. Chriſtianity binds us to live anſwerably to the Goſpel of Chriſt. The two Diſciples thought it enough to live as <hi>Elias</hi> did, and to ſeek for Vengeance on their Enemies: But Chriſt tells them they are called to another Spirit.</p>
+            <p>The Spirit of the Goſpel is a Spirit of Meek<g ref="char:EOLhyphen"/>neſs, it is a Spirit of Patience, it is a ſelf-reſign<g ref="char:EOLhyphen"/>ing Spirit, it is a Spirit of Love; of Love to God, even to the Loſs of our Lives; of Love to our Neighbours, even to the Love of our Ene<g ref="char:EOLhyphen"/>mies. In ſhort! The Spirit of the Goſpel is a Spirit of Holineſs; and all that partake thereof are holy. They <hi>grow in Grace,</hi> (as St. <hi>Paul</hi> ſpeak<g ref="char:EOLhyphen"/>eth) or according to the <hi>Baptiſt's</hi> Injunction in my Text; <hi>They bring forth Fruit meet for Repentance.</hi> Give me Leave a little to expatiate on the Chri<g ref="char:EOLhyphen"/>ſtians Fruitfulneſs, grounded on a two-fold Foun<g ref="char:EOLhyphen"/>dation. 1ſt. Their Name. 2d. Their Relation. As to their Name,</p>
+            <p>
+               <hi>Firſt,</hi> They are ſometimes called Believers, ſometimes Chriſtians; two diſtinct Denominati<g ref="char:EOLhyphen"/>ons
+<pb n="10" facs="tcp:103604:8"/>we grant them, but in Subſtance they are the ſame thing.</p>
+            <p>However, If there be any Difference, in this they are alike, they both require Fruitfulneſs; and as in that which is evil, not to go backward, is to go forward: So here; not to go forward, is to go backward. Believing Chriſtians muſt not be at a ſtand, till fixt in Heaven: For,</p>
+            <p n="1">1. Whence have they their Name? Is it not from their Faith in Chriſt? Now Faith, if it be not operative, it is not at all. We read, <hi>Lev.</hi> 9.17. that the people were to burn their own Sacrifices, <hi>beſides the burnt Sacrifices in the Morning.</hi> Their own Sacrifices! What can this import, if not, as Dr. <hi>Willet</hi> on the place, That we ſhould not relye upon the Speculation of Faith only; but muſt alſo labour to bring forth the Fruit thereof? St. <hi>Paul</hi> beſeecheth the <hi>Corinthians, Not to receive the Grace of God in vain,</hi> 2 <hi>Cor.</hi> 6.1. And St. <hi>Peter</hi> ex<g ref="char:EOLhyphen"/>horts us, 2 <hi>Pet.</hi> 1.5. <hi>To add to Faith, Virtue; to Virtue, Knowledge; to Knowledge, Temperance; to Tem<g ref="char:EOLhyphen"/>perance, Patience; to Patience, Godlineſs; to Godlineſs, Brotherly-kindneſs; to Brotherly-kindneſs, Charity.</hi> Inti<g ref="char:EOLhyphen"/>mating thus much to us; that a Faith without vir<g ref="char:EOLhyphen"/>tuous Works, is but dead and fruitleſs. A Faith that worketh not, is a Faith that ſaveth not; as
+<pb n="11" facs="tcp:103604:8"/>St. <hi>James</hi> inſinuates, when he calls it vain. True Faith, as it is a Grace moſt needful; ſo it is a Grace moſt fruitful. Fruitful on our ſide in good Works; fruitful on God's ſide in a plentiful Re<g ref="char:EOLhyphen"/>ward; for it is no ſooner given of God, but it gives God. So ſoon as thou believeſt, O Chri<g ref="char:EOLhyphen"/>ſtian! Chriſt is thine, and all elſe whatever is his: The Merits of his Paſſion; the Virtue of his Reſurrection; the Comfort of his Aſcenſion: He being gone before, to prepare Celeſtial Man<g ref="char:EOLhyphen"/>ſions for you. He that gives us Chriſt, will al<g ref="char:EOLhyphen"/>ſo with him <hi>give us all things, Rom.</hi> 8.32. Faith doth identifie God, and the godly: My God, ſaith <hi>Daniel,</hi> when he declares his Deliverer; and a Believing <hi>Thomas</hi> crys out, <hi>My Lord, and my Chriſt.</hi> Seeing now, that Faith doth thus identi<g ref="char:EOLhyphen"/>fie God and Believers, it neceſſarily follows, that they muſt have God-like Qualities, and abound in doing good. They muſt bring forth Fruit as Believers. This the Firſt.</p>
+            <p>As Chriſtians, we muſt be Fruitful; and that not only becauſe we bear the Name of Chriſt, but becauſe we were purchaſed with the Blood of the Holy <hi>Jeſus.</hi> We were his before; for he made us, and upon this very Account, we owe him our Service: But we are now more his
+<pb n="12" facs="tcp:103604:9"/>than before; for he hath made us, and payd for us: We therefore much more owe him our Service for that. The great Benefit of our Re<g ref="char:EOLhyphen"/>demption, Oh how ſhould it oblige us? The Apoſtle urgeth it as a Matter of great Equity, 1 <hi>Cor.</hi> 6.19, 20. <hi>What? know ye not that your Body is the Temple of the Holy Ghoſt, which is in you, which ye have of God, and ye are not your own? For ye are bought with a Price. Therefore glorifie God in your Body, and in your Spirit, which are Gods.</hi> Chriſt dyed for us, that we ſhould not henceforth live unto our ſelves, but unto him, 2 <hi>Cor.</hi> 4.10, 11. When Chriſt redeemed us by his Blood, his pur<g ref="char:EOLhyphen"/>poſe was to <hi>redeem us unto God, Rev.</hi> 5.9. His deſign then was to redeem us from our vain Converſation, not to it. 1 <hi>Pet.</hi> 1.18. God there<g ref="char:EOLhyphen"/>fore <hi>delivered us from the hands of our Enemies, that we might the more ſecurely, and without fear, ſerve him in Holineſs and Righteouſneſs, all the days of our Life,</hi> Luk. 1.74.</p>
+            <p>This, this is our Duty; it is our reaſonable Service, and we have much to Anſwer for, if we make not conſcience of it, to perform it accor<g ref="char:EOLhyphen"/>dingly. How doth the Prophet <hi>Jeremy</hi> upbraid the Jews? <hi>Jer.</hi> 7.10. Will ye <hi>ſay, we are deliver<g ref="char:EOLhyphen"/>ed
+<pb n="13" facs="tcp:103604:9"/>to commit all theſe Abominations?</hi> Do ye thus requite the Lord, ye fooliſh People, and unwiſe? Is not he thy Father which hath bought thee? Thy Father, not by Creation only, but by Re<g ref="char:EOLhyphen"/>demption too: Now our Redemption, our Ho<g ref="char:EOLhyphen"/>ly Calling, what doth it but call unto Holineſs? Our Adoption, and being made not only Servants but Sons, Doth it not require a ſuitable Conver<g ref="char:EOLhyphen"/>ſation? It ſhould beget in us St. <hi>Pauls</hi> Reſolu<g ref="char:EOLhyphen"/>tion, <hi>Whether we live, that we live unto the Lord; and whither we dye, that we dye unto the Lord.</hi> God hath done his Part in Creating us, and Chriſt in Redeeming us; Let us Chriſtians do ours, in faithfully ſerving the Lord, which nothing can better prompt us to, if we have any Ingenuity in us, than oft thinking of our Redemption by Chriſt; for this end we make uſe of the means of Grace. Do we not partake of the Lord's Supper, as it is a ſtrengthening Ordinance to fortifie us againſt Sin, and corroborate our Gra<g ref="char:EOLhyphen"/>ces? Do we not go to hear the Word of God, to improve our ſelves by it, and walk according thereunto? We muſt hear to do, or we do no<g ref="char:EOLhyphen"/>thing: For if we be barren Chriſtians, what<g ref="char:EOLhyphen"/>ever we talk of our Profeſſion, whatever we boaſt of our Knowledge, or our Honourable Names,
+<pb n="14" facs="tcp:103604:10"/>all is to no effect or purpoſe. Chriſtians muſt live anſwerably to their Names; we muſt in Goſpel-Times live up to the Benefits of the Goſpel, we muſt be fruitful Chriſtians. So much of the Name.</p>
+            <p>In the next place, our relation to Chriſt calls for Fruitfulneſs: And that</p>
+            <p>
+               <hi>Firſt,</hi> As we are Branches of him the Vine: What more fruitful than the Vine is? Is it not fruitful among the fruitfuleſt? Every one knows it, I ſhall not need diſcourſe of it: Nor need I inſiſt on the</p>
+            <p>
+               <hi>Second</hi> neither; which is, that we are the Spouſe to him our Husband: For, for the Spouſe of Chriſt to be fruitful, what can be more natural? And ſo I have done with this Particular, <hi>We muſt bring forth Fruit.</hi> I paſs now from the Fruit to its Qualification, which was the</p>
+            <p>
+               <hi>Third</hi> in courſe: <hi>Bring forth Fruits meet for Re<g ref="char:EOLhyphen"/>pentance;</hi> that is, <hi>Fruits of Righteouſneſs and of Ho<g ref="char:EOLhyphen"/>lineſs:</hi> Fruits contrary to the Sins and Unrighte<g ref="char:EOLhyphen"/>ouſneſs we have lived in before, <hi>Rom.</hi> 6.19. Like <hi>As ye have given over your Members to the Service of
+<pb n="15" facs="tcp:103604:10"/>Uncleanneſs, from one Wickedneſs to another: So now alſo give over your Members to the Service of Righ<g ref="char:EOLhyphen"/>teouſneſs unto Holineſs.</hi>
+            </p>
+            <p>To this end, Chriſt was born into the world; to this end, Chriſt lived here amongſt us; to this end, Chriſt preach'd his Goſpel to us: E<g ref="char:EOLhyphen"/>ven that we by his Example, and the Doctrine of the Goſpel, might lead an upright and pious Life. Newneſs of Life becomes new Creatures, ſuch as the reclaimed Penitent is. If we have been paſſionate, we muſt now be patient, and bear one anothers Burthens, as the Holy Ghoſt does ours, <hi>Rom.</hi> 8.26.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is the Word in the Original; <hi>He helpeth our Infirmities:</hi> that is, he worketh to<g ref="char:EOLhyphen"/>gether with us, and ſtrengthens us being weak. If we have been Envious, if Defrauded any, we muſt now make Reſtitution, and be Charitable. If we have been Earthly, we muſt be the more Hea<g ref="char:EOLhyphen"/>venly; and if Covetous, we muſt be the Freer to do good.</p>
+            <p>If we have been Profuſe, we muſt be the more Sparing; and if Careleſs of our ſelves, we muſt be the more Watchful. If we have been Proud, we muſt be the more Humble; and if In<g ref="char:EOLhyphen"/>continent, we muſt be the more Chaſt. Have
+<pb n="16" facs="tcp:103604:11"/>any ſinned through exceſs of Luxury? Let them not run themſelves more into Temptation: Let them not purpoſely open their eyes, (thoſe Caſe<g ref="char:EOLhyphen"/>ments of Uncleanneſs) to let in every Object that may provoke to it; Let them not frequent ſuch Company that they know will heighten it: But let ſuch take ſome holy Revenge upon them<g ref="char:EOLhyphen"/>ſelves by Abſtinence, and bring under their Bo<g ref="char:EOLhyphen"/>dies. We ſhould all do as St. <hi>Paul</hi> did, not pam<g ref="char:EOLhyphen"/>per, but pluck down our Bodies: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith he). The Expreſſion is of great Import. I beat it down, I club it down, I beat it black and blew: So emphatical is the ſigni<g ref="char:EOLhyphen"/>fication of the Word. St. <hi>Auguſtine</hi> after his Con<g ref="char:EOLhyphen"/>verſion, was tempted by his bad Companions; he retracted his Errors, and reformed his Life: He ſhook them all off, with an <hi>Ego non ſum Ego;</hi> I, am not I. Such my Brethren were the Life of Chriſtians in the beginning of the Church; they ſubdued their Fleſh, they mortified their Members, they gave them over wholly unto Chriſt. As they had before yeilded their Mem<g ref="char:EOLhyphen"/>bers Servants of Unrighteouſneſs unto Sin; ſo af<g ref="char:EOLhyphen"/>terwards they much more yeilded them Servants of Righteouſneſs unto Holineſs.</p>
+            <pb n="17" facs="tcp:103604:11"/>
+            <p>To have the Name, and not the Goodneſs of Chriſtians, is odious in the Eyes of an Holy God: Therefore in ſhort, to be really what we our ſelves profeſs, and our Chriſtian Names beſpeak us: We muſt be as fruitful in Holineſs, as ever we were in Wickedneſs; we muſt double our Dili<g ref="char:EOLhyphen"/>gence for the time loſt, and muſt <hi>bring forth fruits</hi> anſwerable to the moſt precious Opportunities God graciouſly affords us: This for the Qualification of the Fruit we are to bring forth; <hi>Bring forth fruit meet for Repentance.</hi>
+            </p>
+            <p>The Reaſon follows in that Illative therefore; <hi>Bring forth therefore fruit meet for Repentance.</hi> Which refers to a cogent Argument, drawn</p>
+            <p n="1">1. From the Approach of the Kingdom of God, <hi>verſe</hi> 2.</p>
+            <p n="2">2. From the Wrath of God at the Day of Judg<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="3">3. From the preſent Judgement hanging over their Heads, <hi>ver.</hi> 10. Time will not permit me to diſcuſs theſe particulars; therefore briefly ſome<g ref="char:EOLhyphen"/>what by way of Improvement, and I have done.</p>
+            <p>
+               <hi>Firſt,</hi> Is it ſo, that we muſt <hi>Bring forth fruits meet for Repentance?</hi> Then this teacheth us, that only that which is Spiritual and Holy can be poſſeſs't of Heaven: There's no Happineſs without Holi<g ref="char:EOLhyphen"/>neſs.
+<pb n="18" facs="tcp:103604:12"/>
+               <hi>Bleſſed are the Pure in Heart, for they ſhall ſee God, Matt.</hi> 5.8. As God is of pure Eyes, and cannot behold Iniquity with the leaſt of Approba<g ref="char:EOLhyphen"/>tion; ſo Sin is of dim and dark eyes, and cannot behold God with eyes of Joy. Sinners can look upon God no otherwiſe than as the Bat, the Owl, or weak eyes do on the Sun, at which they are much grieved. Sin is contrary to the Nature of God; He therefore cannot harbour Sinners in his Boſome. <hi>Know ye not, that no unrighteous Man ſhall inherit the Kingdom of God,</hi> 1 Cor. 6.9.</p>
+            <p>Tho' we abſtain from foul Sins, if we wilful<g ref="char:EOLhyphen"/>ly commit any, we ſhall never get to Heaven without this genuine Repentance. By this the Children of God become victorious, and triumph over Sin. As a King (who may have Rebels, and may be wounded too, yet) keeps his Power ſtill: So the Saints and Children of God may have ma<g ref="char:EOLhyphen"/>ny Infirmities, many Failings, many Slips, nay ſome ſound Falls; yet in the end they Riſe again, and get the Victory. Nor marvel at it, for <hi>Eph.</hi> 2.9. They are <hi>God's Workmanſhip,</hi> created to good Works. The expreſſion is worth our Note, <hi>Crea<g ref="char:EOLhyphen"/>ted to them;</hi> that is, not only purpoſed and intend<g ref="char:EOLhyphen"/>ed to abound in good Works, but alſo enabled and fitted for them. In the Creation every thing was
+<pb n="19" facs="tcp:103604:12"/>enabled to live after their kind. 'Tis true, the beſt of Men may ſin (indeed as Men, they cannot a<g ref="char:EOLhyphen"/>void it;) but the Godly Man's heart (like a trou<g ref="char:EOLhyphen"/>bled Fountain) tho' muddy, it having a Spring with<g ref="char:EOLhyphen"/>in, worketh it ſelf pure again, and purgeth out all the Mud. He is not to learn, that God hath coupled together Grace and Glory, Holineſs and Happineſs, a ſpiritual Birth, and a ſpiritual Inhe<g ref="char:EOLhyphen"/>ritance.</p>
+            <p>Many would be happy hereafter, but will not be Holy here<g ref="char:punc">▪</g> Many would be glorified Saints in Heaven, but will not be mortified (not to ſay) cru<g ref="char:EOLhyphen"/>cified Saints on earth; but this is far from right: The reaſon is, becauſe we cannot be juſtified, if not ſanctified; nor glorious, if not gracious. <hi>Heb.</hi> 12.14. <hi>Follow Peace with all Men and Holineſs, without which no Man ſhall ſee the Lord.</hi>
+            </p>
+            <p>
+               <hi>Alcibiades</hi> was too timorous, who being called from Baniſhment, refuſed to return; and being asked, if he durſt not truſt a Country, anſwered, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. In every thing elſe he would, but in the Queſtion of his Life, he would not truſt his Mother, leaſt igno<g ref="char:EOLhyphen"/>rantly ſhe ſhould miſtake the black Bean for the white, and intending a Favour, ſhould do him a
+<pb n="20" facs="tcp:103604:13"/>Miſchief. Such a ſlaviſh Fearfulneſs as this towards God our Heavenly Father, would greatly miſ-be<g ref="char:EOLhyphen"/>come Chriſtians; for there can be no better Securi<g ref="char:EOLhyphen"/>ty in the World, than they have, for the Hope and Confidence of a future well being.</p>
+            <p>As God is our Creator, He is faithful; as our Redeemer, He hath purchaſed our Souls at a dear rate; and as our Lord, they and we are his own. But yet, this expectation of divine Mercy (as to the Iſſue of our Souls and final Intereſt) muſt be in the Ways of Piety, 1 <hi>Pet.</hi> 4.19. <hi>Commit your Souls to God in well doing, as unto a faithful Creator.</hi> We muſt live to Him, if we will live with Him.</p>
+            <p>Oh let us at length live holily and blameleſsly! Let us conſider, that it is Purity of Life that God requireth of us. <hi>Let our Bodies be a living Sacrifice, holy and acceptable unto God,</hi> Rom. 6.3, 4. And as the ſame bleſſed Apoſtle adviſeth in another place; <hi>Make no Proviſion for the Fleſh, whereby to fulfil the Luſts thereof; but put ye on the Lord Jeſus Chriſt;</hi> that is, a<g ref="char:EOLhyphen"/>dorn his Doctine by a Conformity to his Life.</p>
+            <p>Put on his Modeſty and his Temperance, in a perfect Oppoſition to Rioting and Drunkenneſs; put on his Chaſtity and Purity, in oppoſition to Chambering and Wantonneſs; put on his Bowels and his Mercy, in oppoſition to Scrife and Envy.</p>
+            <pb n="21" facs="tcp:103604:13"/>
+            <p>A King's Court is no common Receptacle for ragged Rogues: <hi>Joſeph,</hi> in the forlorn Faſhion of a Priſoner, was not fit for <hi>Pharaohs</hi> Preſence. Tho' the Serpent might come into the earthly Paradice; yet no unclean thing ſhall enter Heaven: There is no Room for the Serpent there. <hi>It is an Inheritance undefiled,</hi> 1 <hi>Pet.</hi> 1.4. Sin hath a defiling Nature; ſo that if Sin might enter Heaven, it would ſoon pollute it: Hereupon the Angels in the very firſt Act of Sin were thrown out with a Vengeance. Now can we think to come thither with our Ini<g ref="char:EOLhyphen"/>quities? The <hi>Iriſh</hi> Air will ſooner brook a Toad, or a Snake to live therein, than Heaven a Sinner; the Air of the Place cannot indure it. Oh what horrible Preſumption is it? What Saucineſs unſpeak<g ref="char:EOLhyphen"/>able? When groſs Sinners ſhall think themſelves fit Companions for the moſt Holy Trinity. For us, dear Chriſtians! To have God in the end, ſay, Come and reign with me: We muſt now ſay to him, Come and reign in us. Oh let it be the con<g ref="char:EOLhyphen"/>tinual Breathing of our Souls, our ſerious Option, and moſt ardent, as alſo daily Prayer, this: <hi>Lord, rule thou over us!</hi> For we may aſſure our ſelves, if we in this our day bid God depart; He will in his ſend us packing to the Devil and his Angels: But if we live as becometh the Goſpel of Chriſt, Bliſs ſhall follow Piety.</p>
+            <pb n="22" facs="tcp:103604:14"/>
+            <p>In the Compoſition of the World, the higher Place any thing hath, the Purer it is: As Water is purer than the groſs Earth; Air than the Water; Fire than Air. Now the third Heaven being above all, ſhews the Purity that muſt be in thoſe that dwell there. <hi>Fair as the Moon, pure as the Sun,</hi> Cant. 6.9. Is not this more than inſinuated by the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Col.</hi> 1.9. in theſe Words? <hi>Who hath made us meet to be Partakers with the Saints in Glory.</hi> Oh let us not fondly think, that a pure Place will receive impure Sinners! Was Satan once baniſhed Heaven, to re-enter again in his wicked Members? Did Hea<g ref="char:EOLhyphen"/>ven ſpue out the diſobedient Angels; and ſhall it lick up its Vomit again? The groſs and heavy: Earth, which to Heaven is but as <hi>Sodom</hi> to <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> ſhall it be impatient of bearing ſuch Burthens as filthy Sinners? Shall it caſt them out? And ſhall Heaven, all pure and clear, receive the Refuſe of the Earth? No, onely that, that is Pure and Holy, can enter the Coeleſtial Paradice. Thoſe that have Admittance there, muſt <hi>bring forth fruit meet for Repentance.</hi> This the 1ſt. Uſe.</p>
+            <p n="2">2. Muſt we <hi>bring forth fruit meet for Repentance?</hi> Then let us dung the Ground, that it may be fruit<g ref="char:EOLhyphen"/>ful. Let us be diligent in the means appointed by God for this end. <hi>Give all Diligence to make your cal<g ref="char:EOLhyphen"/>ling
+<pb n="23" facs="tcp:103604:14"/>and Election ſure,</hi> ſo St. <hi>Peter,</hi> 2 <hi>Pet.</hi> 1.10. It is our preſent Buſineſs to make ſure of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uture Happi<g ref="char:EOLhyphen"/>neſs; which cannot be done (as hath been all along inſtill'd) but in the Ways of Piety. This the 2d.</p>
+            <p n="3">3. Muſt we <hi>bring forth fruit meet for Repentance?</hi> Then let us labour more for inward Purity, than outward Proſperity. <hi>Labour not for the Meat that periſh<g ref="char:EOLhyphen"/>eth, but for that which indureth to everlaſting Life,</hi> John 6.27. Let us labour to be truly Pious, to be truly Godly.</p>
+            <p>While we live, we ſhall find Godlineſs gainful; and nothing ſo ſure, as that when we die we ſhall find it needful. <hi>Let us therefore ſet our Affections on things that are above, and not on things that are below, Col.</hi> 3.1. And as the Apoſtle proceeds, <hi>ver.</hi> 2. <hi>Let our Converſations be in Heaven.</hi> Inward Piety is the beſt Friend to outward Proſperity, but it is not con<g ref="char:EOLhyphen"/>vertible. Very rare it is, if ever; that outward Proſperity is other than an enemy to inward Piety. The things of this Life have not the Promiſe of Godlineſs; but <hi>Godlineſs</hi> hath the <hi>Promiſe</hi> of the things of this Life, 1 <hi>Tim.</hi> 4.8. And as to the Con<g ref="char:EOLhyphen"/>cerns of another, a better World, we have heard before; that Faith, Vertue, Knowledge, Tempe<g ref="char:EOLhyphen"/>rance and Patience, without Godlineſs, are all vain: What an excellent Jewel then muſt Godlineſs needs
+<pb n="24" facs="tcp:103604:15"/>be? And who would not part with all for it? Who would not with St. <hi>Paul</hi> count all things but droſs and dung in Compariſon of it?</p>
+            <p>Oh, what is Darkneſs to Light? What is Sin to Holineſs? What is Gold to Grace? What is Earth to Heaven? That we ſilly Creatures ſhould forfeit the one, by too much prizing and dotage on the other? Is it not beneath a rational Being to neglect great and weighty things, and buſie themſelves in Toys and Trifles?</p>
+            <p>When we have a Crown to look after, an Hea<g ref="char:EOLhyphen"/>ven to enjoy, a Kingdom to be made Heirs of: Shall we employ our ſelves about catching <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lies, and picking Cockles?</p>
+            <p>To conclude: I beſeech you all dear Chriſti<g ref="char:EOLhyphen"/>ans, as you tender the Welfare and eternal Hap<g ref="char:EOLhyphen"/>pineſs of your truly precious and immortal Souls: Labour more for inward Holineſs, than outward Grandure: Labour more for Piety, than Plenty: Labour more for the Seeds of Grace, than the Maſs of Gold: And Labour more for an heavenly Con<g ref="char:EOLhyphen"/>verſation, than an earthly Poſſeſſion. The Earth is for a Saints Paſſage, but Heaven is for his Inheri<g ref="char:EOLhyphen"/>tance: Which to enjoy, We muſt <hi>bring forth fruit meet for Repentance.</hi>
+            </p>
+            <pb n="25" facs="tcp:103604:15"/>
+            <p>Now to God the Father, God the Son, and God the Holy Ghoſt, in Perſons Three, in Eſſence One, be aſcribed and given as is moſt juſtly due, All Honour, Glory, Praiſe, Dominion, Obedi<g ref="char:EOLhyphen"/>ence, and Thankſgiving, now and for evermore, <hi>Amen.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
